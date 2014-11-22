@@ -1,0 +1,22 @@
+
+html, body {
+	height: 100%;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	margin: 0;
+}
+
+p { font-size: 11px; line-height: 12px; margin: 0 0 1px 0; padding: 2px 2px 2px 7px; background-color: #EFF8FB;  border-left: 1px solid #acacac; border-right: 1px solid #acacac; border-top: 1px solid #acacac }
+p:hover, p:active { background: white }
+
+#map { 
+	width: 100%;
+	height: 100%;
+}
+
+#scrollable { 
+	overflow-y: auto; 
+}
+
+h5 { margin: 0; padding: 0 }
+
